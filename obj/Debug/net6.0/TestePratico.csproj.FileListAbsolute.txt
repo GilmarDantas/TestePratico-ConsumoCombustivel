@@ -1,0 +1,15 @@
+C:\Users\Gilmar\Documents\TestePratico\bin\Debug\net6.0\TestePratico.exe
+C:\Users\Gilmar\Documents\TestePratico\bin\Debug\net6.0\TestePratico.deps.json
+C:\Users\Gilmar\Documents\TestePratico\bin\Debug\net6.0\TestePratico.runtimeconfig.json
+C:\Users\Gilmar\Documents\TestePratico\bin\Debug\net6.0\TestePratico.dll
+C:\Users\Gilmar\Documents\TestePratico\bin\Debug\net6.0\TestePratico.pdb
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.csproj.AssemblyReference.cache
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.AssemblyInfoInputs.cache
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.AssemblyInfo.cs
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.csproj.CoreCompileInputs.cache
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.dll
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\refint\TestePratico.dll
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.pdb
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\TestePratico.genruntimeconfig.cache
+C:\Users\Gilmar\Documents\TestePratico\obj\Debug\net6.0\ref\TestePratico.dll
